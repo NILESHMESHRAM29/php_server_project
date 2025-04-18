@@ -15,15 +15,6 @@ Backend: PHP (optional), MySQL
 
 Server: XAMPP (Apache & MySQL)
 
-🗂️ Project Structure
-pgsql
-Copy
-Edit
-📁 project-folder/
-├── index.html
-├── style.css
-├── connect.php (if you're using PHP)
-└── README.md
 ⚙️ How to Run
 Start your XAMPP server (Apache & MySQL).
 
